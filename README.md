@@ -11,3 +11,5 @@ an app that helps you focus on your breathing
 ### Technologies
 
 Made with Javascript, HTML and CSS
+
+Forest sounds were made by <https://freesound.org/people/klankbeeld/>

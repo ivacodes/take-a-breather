@@ -27,8 +27,8 @@ function breathAnimation() {
 setInterval(breathAnimation, totalTime);
 
 // audio element
-
 var audioElement = new Audio("./sound/forest.wav");
+
 //set loop
 audioElement.loop = true;
 
