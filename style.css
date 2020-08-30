@@ -110,3 +110,7 @@ body {
     transform: scale(1);
   }
 }
+
+#sound-toggle {
+  font-size: 2em;
+}
